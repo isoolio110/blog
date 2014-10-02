@@ -1,5 +1,6 @@
 class Page
 
+
 	def initialize(options = {})
 		@header = options['header']
 		@article = options['article']
